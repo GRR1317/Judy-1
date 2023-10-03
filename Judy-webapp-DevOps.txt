@@ -1,0 +1,8 @@
+Requried Commands:
+++++++++++++++++++++++++++++++++++++
+1. install GIT & maven
+2. Clone GIT Repo
+3. go to pom.xml file location, use following command
+     mvn spring-boot:run
+4. To see the output
+       Public-IP:8080
